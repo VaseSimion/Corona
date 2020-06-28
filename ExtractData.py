@@ -43,4 +43,5 @@ def get_updated_data():
             current_cases_list.append(dictionary["cases"])
             current_dates_list.append(dictionary["dateRep"])
             current_population = dictionary["popData2019"]
+    print("\n\n\n\n\n\n\n\n")
     return countries
